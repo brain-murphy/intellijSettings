@@ -1,0 +1,14 @@
+<application>
+  <component name="libraryTable">
+    <library name="ml-utils">
+      <CLASSES>
+        <root url="file://$USER_HOME$/dev/propaneregression/ml-utils" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/dev/propaneregression/ml-utils/src/main/java" />
+        <root url="file://$USER_HOME$/dev/propaneregression/ml-utils/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

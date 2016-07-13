@@ -1,0 +1,52 @@
+<keymap version="1" name="Mac OS X 10.5+ copy copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute" />
+  <action id="Debug" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="EditorEnter" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
