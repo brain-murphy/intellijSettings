@@ -4,6 +4,9 @@
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
