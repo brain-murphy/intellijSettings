@@ -67,15 +67,8 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-    <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
   </component>
 </application>
