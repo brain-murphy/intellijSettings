@@ -12,7 +12,13 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -23,6 +29,10 @@
   </action>
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="MethodDown" />
   <action id="MethodUp" />
